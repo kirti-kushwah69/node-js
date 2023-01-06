@@ -8,4 +8,4 @@
 // console.log(__filename);
 
 const data = require('./student')
-console.log(data.b);
+console.log(data);
